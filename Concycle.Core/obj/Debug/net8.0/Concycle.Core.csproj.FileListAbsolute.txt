@@ -1,0 +1,14 @@
+C:\Users\furka\source\repos\Concycle\Concycle.Core\bin\Debug\net8.0\Concycle.Core.deps.json
+C:\Users\furka\source\repos\Concycle\Concycle.Core\bin\Debug\net8.0\Concycle.Core.runtimeconfig.json
+C:\Users\furka\source\repos\Concycle\Concycle.Core\bin\Debug\net8.0\Concycle.Core.dll
+C:\Users\furka\source\repos\Concycle\Concycle.Core\bin\Debug\net8.0\Concycle.Core.pdb
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.AssemblyInfo.cs
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.dll
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\refint\Concycle.Core.dll
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.pdb
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\Concycle.Core.genruntimeconfig.cache
+C:\Users\furka\source\repos\Concycle\Concycle.Core\obj\Debug\net8.0\ref\Concycle.Core.dll
